@@ -8,8 +8,8 @@ VERSION="1.0.0"
 [DOCUMENTATION]
 ORG_NAME="Runciter Associates"
 ORG_DBA="Joe Chip"
-ORG_URL="https://ubik.us.to"
-ORG_LOGO="https://ubik.us.to/logo.png"
+ORG_URL="https://ubik.port0.org/"
+ORG_LOGO="https://ubik.port0.org/logo.png"
 ORG_PHYSICAL_ADDRESS="Luna"
 
 [[PRINCIPALS]]
@@ -18,6 +18,7 @@ email="hellojoechip@gmail.com"
 
 [[CURRENCIES]]
 code="UBIK"
+name="Ubik"
 issuer="GC4RZG4AA57JRUBALFCTYGSDUM4CCXS6OCIP7MY3W5HUWXEOIL3PEX7B"
 display_decimals=2
 is_asset_anchored=false
